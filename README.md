@@ -1,7 +1,7 @@
 # DS_WEBSCRAPING_SENTIMENT_ANALYSIS
 Web Scraping tweet(X) data for Sentiment Analysis
 
-# END-TO-END WEBSCRAPING AND SENTIMENT_ANALYSIS
+# END-TO-END WEBSCRAPING AND SENTIMENT ANALYSIS
 
 **PROJECT DESCRIPTION:**
 -----------------------------------------------------------

@@ -55,6 +55,7 @@ Web Scraping tweet(X) data for Sentiment Analysis
 
 # PROJECT FLOW:
 -----------------------------------------------------------
+
 ## 1. DATA COLLECTION
 ### WHY?
 - `Twitter` is a major platform for real-time reactions to events.

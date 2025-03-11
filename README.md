@@ -1,5 +1,6 @@
 # DS_WEBSCRAPING_SENTIMENT_ANALYSIS
 Web Scraping tweet(X) data for Sentiment Analysis
+
 # END-TO-END WEBSCRAPING AND SENTIMENT_ANALYSIS
 
 **PROJECT DESCRIPTION:**
@@ -141,17 +142,4 @@ Your sentiment model needs more refinement, especially for negative and positive
 
 ![image](https://github.com/user-attachments/assets/ea1c6bc3-2740-46b5-b890-13d7ca10199e)
 
-Footer
-© 2025 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact
-Manage cookies
-Do not share my personal information
-0 suggestions
-List updated, Focused item: None, not selected, 1 of 14 
  
